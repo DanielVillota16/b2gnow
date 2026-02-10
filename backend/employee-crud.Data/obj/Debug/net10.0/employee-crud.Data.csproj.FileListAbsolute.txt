@@ -1,0 +1,14 @@
+/Users/daniel/repos/b2gnow/backend/employee-crud.Data/bin/Debug/net10.0/employee-crud.Data.deps.json
+/Users/daniel/repos/b2gnow/backend/employee-crud.Data/bin/Debug/net10.0/employee-crud.Data.runtimeconfig.json
+/Users/daniel/repos/b2gnow/backend/employee-crud.Data/bin/Debug/net10.0/employee-crud.Data.dll
+/Users/daniel/repos/b2gnow/backend/employee-crud.Data/bin/Debug/net10.0/employee-crud.Data.pdb
+/Users/daniel/repos/b2gnow/backend/employee-crud.Data/obj/Debug/net10.0/employee-crud.Data.csproj.AssemblyReference.cache
+/Users/daniel/repos/b2gnow/backend/employee-crud.Data/obj/Debug/net10.0/employee-crud.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/repos/b2gnow/backend/employee-crud.Data/obj/Debug/net10.0/employee-crud.Data.AssemblyInfoInputs.cache
+/Users/daniel/repos/b2gnow/backend/employee-crud.Data/obj/Debug/net10.0/employee-crud.Data.AssemblyInfo.cs
+/Users/daniel/repos/b2gnow/backend/employee-crud.Data/obj/Debug/net10.0/employee-crud.Data.csproj.CoreCompileInputs.cache
+/Users/daniel/repos/b2gnow/backend/employee-crud.Data/obj/Debug/net10.0/employee-crud.Data.dll
+/Users/daniel/repos/b2gnow/backend/employee-crud.Data/obj/Debug/net10.0/refint/employee-crud.Data.dll
+/Users/daniel/repos/b2gnow/backend/employee-crud.Data/obj/Debug/net10.0/employee-crud.Data.pdb
+/Users/daniel/repos/b2gnow/backend/employee-crud.Data/obj/Debug/net10.0/employee-crud.Data.genruntimeconfig.cache
+/Users/daniel/repos/b2gnow/backend/employee-crud.Data/obj/Debug/net10.0/ref/employee-crud.Data.dll

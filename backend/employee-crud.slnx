@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="employee-crud.Api/employee-crud.Api.csproj" />
+  <Project Path="employee-crud.Data/employee-crud.Data.csproj" />
+</Solution>
